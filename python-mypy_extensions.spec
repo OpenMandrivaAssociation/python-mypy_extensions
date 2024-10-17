@@ -6,7 +6,7 @@ Release:        1
 Summary:        Experimental type system extensions for programs checked with the mypy typechecker
 Group:          Development/Python
 License:        MIT
-URL:            http://www.mypy-lang.org/
+URL:            https://www.mypy-lang.org/
 Source0:        https://files.pythonhosted.org/packages/source/m/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
 BuildArch:      noarch
 
