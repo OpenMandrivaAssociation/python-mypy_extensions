@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.0.0
-Release:        1
+Release:        2
 Summary:        Experimental type system extensions for programs checked with the mypy typechecker
 Group:          Development/Python
 License:        MIT
